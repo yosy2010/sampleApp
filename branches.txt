@@ -9,3 +9,14 @@ used to add changes to another copy of the project other than the original one
 
 for example: if you're working on a log in page, you don't want to commit all your changes to the main repository untill you finished the whole thing
 so you will start a new branch and commit to it and do whatever you want to that branch and treat it as a different project until you finish it all then you can add it to the wholw main project
+
+
+
+
+
+the main branch is called master
+
+
+git branch branch-name: to creat a new branch
+git checkout branch-name: to switch to another branch so that all my commits are add only to this branch
+
