@@ -20,3 +20,6 @@ the main branch is called master
 git branch branch-name: to creat a new branch
 git checkout branch-name: to switch to another branch so that all my commits are add only to this branch
 
+
+git merge branch-name: to merge your branch with the master branch (note: you have to be in the original branch or master branch to merge it)
+
